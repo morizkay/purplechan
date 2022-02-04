@@ -1,0 +1,21 @@
+{
+	"name": "purplechan",
+	"displayName": "purplechan",
+	"description": "Just a simple purple and black dominant theme. ",
+	"version": "0.0.5",
+	"engines": {
+		"vscode": "^1.64.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Purplechan",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Purplechan-color-theme.json"
+			}
+		]
+	}
+}
