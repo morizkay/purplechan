@@ -3,6 +3,10 @@
 	"displayName": "purplechan",
 	"description": "Just a simple purple and black dominant theme. ",
 	"version": "0.0.5",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/blangkohq/purplechan.git"
+	},
 	"engines": {
 		"vscode": "^1.64.0"
 	},
